@@ -1,0 +1,4 @@
+APP_NAME='Tokyo Sinner'
+WIDTH=1530
+HEIGHT=800
+
